@@ -11,11 +11,14 @@ Each lab includes objectives, a topology diagram, and step-by-step IOS configura
 | # | Topic | Key Concepts |
 |---|-------|-------------|
 | 01 | [Basic LAN + Switch Config](./01-basic-lan/) | Hostnames, passwords, VTY, SSH, port security |
-| 02 | [VLANs & Trunking](./02-vlans-trunking/) | VLAN creation, access ports, 802.1Q trunk |
+| 02 | [VLANs & Trunking](./02-vlans-and-trunking/) | VLAN creation, access ports, 802.1Q trunk |
 | 03 | [Inter-VLAN Routing](./03-inter-vlan-routing/) | Router-on-a-stick, subinterfaces, encapsulation |
-| 04 | [DHCP + DNS](./04-dhcp-dns/) | DHCP pools, exclusions, DNS server config |
-| 05 | [Static Routing & Default Routes](./05-static-routing/) | ip route, default gateway, floating static |
-| 06 | [OSPF](./06-ospf/) | Single-area OSPFv2, DR/BDR, passive interfaces |
+| 04 | [DHCP Server](./04-dhcp-server/) | DHCP pools, exclusions, lease time, ip helper-address |
+| 05 | [DNS & HTTP](./05-dns-and-http/) | DNS A records, HTTP server, name resolution |
+| 06 | [Static Routing & Default Routes](./06-static-routing/) | ip route, default gateway, floating static |
+| 07 | [OSPF](./07-ospf/) | Single-area OSPFv2, DR/BDR, passive interfaces |
+| 08 | [ACLs](./08-acls/) | Standard & extended ACLs, permit/deny, wildcard masks |
+| 09 | [NAT/PAT](./09-nat-pat/) | Static NAT, dynamic NAT, PAT (overload) |
 
 ---
 
